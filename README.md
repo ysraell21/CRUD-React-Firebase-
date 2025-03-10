@@ -67,15 +67,15 @@ Make sure you have **Node.js** installed.
 ```
 ├── src
 │   ├── components
-│   │   ├── DataTable.tsx        # Main employee table
-│   │   ├── EmployeeModal.tsx    # Modal for adding/editing employees
-│   │   ├── ViewEmployeeModal.tsx    # Modal for viewing specific employee
-│   │   ├── types.ts            # Type definitions
+│   │   ├── DataTable.tsx              # Main employee table
+│   │   ├── EmployeeModal.tsx          # Modal for adding/editing employees
+│   │   ├── ViewEmployeeModal.tsx      # Modal for viewing specific employee
+│   │   ├── types.ts                   # Type definitions
 │   ├── config
-│   │   ├── firestore.ts        # Firebase configuration
-│   ├── App.tsx                 # Main app component
-├── .env                         # Environment variables (not committed)
-├── package.json                 # Dependencies
-└── vite.config.ts               # Vite configuration
+│   │   ├── firestore.ts               # Firebase configuration
+│   ├── App.tsx                        # Main app component
+├── .env                               # Environment variables (not committed)
+├── package.json                       # Dependencies
+└── vite.config.ts                     # Vite configuration
 ```
 
